@@ -1,0 +1,185 @@
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.exe
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.deps.json
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.runtimeconfig.json
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.AssemblyReference.cache
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Form1.resources
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.GenerateResource.cache
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfoInputs.cache
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfo.cs
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.CoreCompileInputs.cache
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - we.2D24EB18.Up2Date
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\refint\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.genruntimeconfig.cache
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\ref\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Properties.Resources.resources
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Translate.v2.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Google.Cloud.Translation.V2.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\V1\Desktop\Sem II\G18 - webServices\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.exe
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.deps.json
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.runtimeconfig.json
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Translate.v2.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Google.Cloud.Translation.V2.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.AssemblyReference.cache
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Form1.resources
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Properties.Resources.resources
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.GenerateResource.cache
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfoInputs.cache
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfo.cs
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.CoreCompileInputs.cache
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - we.2D24EB18.Up2Date
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\refint\G18 - webServices.dll
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.genruntimeconfig.cache
+C:\Users\V1\Desktop\Sem II\anda good\G18 - webServices\obj\Debug\net8.0-windows\ref\G18 - webServices.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.exe
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.deps.json
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.runtimeconfig.json
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Translate.v2.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Cloud.Translation.V2.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Milagros\Desktop\G18 - webServices\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.AssemblyReference.cache
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Form1.resources
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Properties.Resources.resources
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.GenerateResource.cache
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfoInputs.cache
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfo.cs
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.CoreCompileInputs.cache
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - we.2D24EB18.Up2Date
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\refint\G18 - webServices.dll
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.genruntimeconfig.cache
+C:\Users\Milagros\Desktop\G18 - webServices\obj\Debug\net8.0-windows\ref\G18 - webServices.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.exe
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.deps.json
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.runtimeconfig.json
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Translate.v2.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Google.Cloud.Translation.V2.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.VisualStudio.LiveShare.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.AssemblyReference.cache
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Form1.resources
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Properties.Resources.resources
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.GenerateResource.cache
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfo.cs
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - we.2D24EB18.Up2Date
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\refint\G18 - webServices.dll
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.pdb
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.genruntimeconfig.cache
+C:\Users\Ryzen\Desktop\G18 - webServices\obj\Debug\net8.0-windows\ref\G18 - webServices.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.exe
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.deps.json
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.runtimeconfig.json
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\G18 - webServices.pdb
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Api.Gax.Rest.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Auth.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Core.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Apis.Translate.v2.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Google.Cloud.Translation.V2.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Microsoft.VisualStudio.LiveShare.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\System.Management.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.AssemblyReference.cache
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Form1.resources
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18___webServices.Properties.Resources.resources
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.GenerateResource.cache
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfoInputs.cache
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.AssemblyInfo.cs
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.csproj.CoreCompileInputs.cache
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - we.2D24EB18.Up2Date
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\refint\G18 - webServices.dll
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.pdb
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\G18 - webServices.genruntimeconfig.cache
+D:\Archivos\Aa UNAM Apóstoles\2° Año\Seminario de Lenguajes II\Grupos exposiciones\Grupo 18 o 7\G18 - webServices\obj\Debug\net8.0-windows\ref\G18 - webServices.dll
